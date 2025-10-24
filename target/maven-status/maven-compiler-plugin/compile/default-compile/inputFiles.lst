@@ -1,0 +1,15 @@
+/Users/ahmetc/Desktop/java/data-masking/data-masking-tool/src/main/java/com/datamasking/tool/DataMaskingToolApplication.java
+/Users/ahmetc/Desktop/java/data-masking/data-masking-tool/src/main/java/com/datamasking/tool/config/CorsConfig.java
+/Users/ahmetc/Desktop/java/data-masking/data-masking-tool/src/main/java/com/datamasking/tool/config/DataSeeder.java
+/Users/ahmetc/Desktop/java/data-masking/data-masking-tool/src/main/java/com/datamasking/tool/config/SecurityConfig.java
+/Users/ahmetc/Desktop/java/data-masking/data-masking-tool/src/main/java/com/datamasking/tool/config/SwaggerConfig.java
+/Users/ahmetc/Desktop/java/data-masking/data-masking-tool/src/main/java/com/datamasking/tool/controller/MaskingController.java
+/Users/ahmetc/Desktop/java/data-masking/data-masking-tool/src/main/java/com/datamasking/tool/dto/MaskingRequest.java
+/Users/ahmetc/Desktop/java/data-masking/data-masking-tool/src/main/java/com/datamasking/tool/dto/MaskingResponse.java
+/Users/ahmetc/Desktop/java/data-masking/data-masking-tool/src/main/java/com/datamasking/tool/model/MaskingJob.java
+/Users/ahmetc/Desktop/java/data-masking/data-masking-tool/src/main/java/com/datamasking/tool/model/MaskingRule.java
+/Users/ahmetc/Desktop/java/data-masking/data-masking-tool/src/main/java/com/datamasking/tool/model/MaskingStrategy.java
+/Users/ahmetc/Desktop/java/data-masking/data-masking-tool/src/main/java/com/datamasking/tool/model/PiiType.java
+/Users/ahmetc/Desktop/java/data-masking/data-masking-tool/src/main/java/com/datamasking/tool/repository/MaskingJobRepository.java
+/Users/ahmetc/Desktop/java/data-masking/data-masking-tool/src/main/java/com/datamasking/tool/repository/MaskingRuleRepository.java
+/Users/ahmetc/Desktop/java/data-masking/data-masking-tool/src/main/java/com/datamasking/tool/service/MaskingService.java
